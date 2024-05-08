@@ -2,7 +2,7 @@
 ## tfenv is a terraform version manager
 
 # Installation:
-## Clone source files into ~/.tfenv:
+#### Clone source files into ~/.tfenv:
 ```shell
 git clone https://github.com/tfutils/tfenv.git ~/.tfenv
 ```
